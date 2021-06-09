@@ -1,2 +1,2 @@
 # Hacking-Mini-Game
-A game inspired byt the Hacking minigames from Fallout series.
+A game inspired by the Hacking minigames from Fallout series.
